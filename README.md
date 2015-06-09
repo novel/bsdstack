@@ -18,3 +18,7 @@ Then add the following to your nova.conf:
 	firewall_manager = bsdstack.nova.network.firewall.NoopFirewallManager
         ...
 
+## TODO
+
+* Implement VLAN routines
+* Add unit tests
